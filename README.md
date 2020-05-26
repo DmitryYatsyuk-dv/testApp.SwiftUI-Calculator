@@ -3,4 +3,4 @@
 Programming a calculator in SwiftUI
 ```
 #### Screen
-![images](images/mainScreen.png)
+<img src="images/mainScreen.png" width="250">
